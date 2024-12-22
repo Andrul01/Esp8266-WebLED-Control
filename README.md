@@ -17,8 +17,7 @@ The interface is built using Bootstrap 5 for styling, making it responsive and u
 
 # Pin Configuration
 
-Built-in LED on the ESP8266 is connected to GPIO 2.
----
+Built-in LED on the ESP8266 is connected to GPIO 2
 
 # Setup Instructions
 
